@@ -1,0 +1,16 @@
+{
+    "solana_rpc_url": "",
+    "botting_address": "",
+    "vault_address": "",
+    "discord_id": "",
+    "analyser_csv_webhook": "",
+    "analyser_single_webhook": "",
+    "balance_10min_webhook": "",
+    "balance_daily_webhook": "",
+    "check_empty_ct_webhook": "",
+    "your_balance_threshold": "",
+    "target_balance_threshold": "",
+    "bot_token": "",
+    "sharp_webhook_channel_id": "",
+    "bot_stats_channel_id": ""
+}
