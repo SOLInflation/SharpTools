@@ -7,3 +7,4 @@ colorama
 certifi
 pandas
 numpy
+statistics
